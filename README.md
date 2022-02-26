@@ -1,5 +1,8 @@
 # RSA Algorithm
+
 You can find the implementation of the RSA algorithm in the file named : "RSA.ipynb". It's an example without any library about how RSA work
+
+RSA is a public key cryptosystem used to secure data transmission by encrypting and decrypting message with public and private keys. It uses the practical difficulty of factorizing prime numbers
 
 # Shor Algorithm
 
@@ -9,4 +12,4 @@ Shor algorithm is a quantum computer algorithm made by  Peter Shor for finding p
 
 The implementation of Shor was made with Qiskit library and contrary to a lot of example in the internet work with any N given.
 
-Contrary to the basic Shor algorithm, we simplified this algorithm by creating ourself a U gate with arithmetic instead of multiple swap gate.
+In opposite to the basic Shor algorithm, we simplified this algorithm by creating ourself a U gate with arithmetic instead of multiple swap gate.
